@@ -2,7 +2,7 @@
 tags: [question, business, caredent]
 aliases: []
 updated_at: 2026-07-08
-sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md]
+sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md, "raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md"]
 status: active
 confidence: low
 ---
@@ -25,6 +25,7 @@ confidence: low
 - 無料モデル（高校生完全無料）での収益構造は何か。候補として、[[entities/people/坂口さん|坂口さん]]の事例に基づくクラウドファンディング手数料モデル（調達額の10%）が挙がっているが未実行・未検証。
 - Caredent 1day（単発イベント）が、企業側の「学生インターン獲得」というメリットに実際につながるか。
 - 「Caredent 1dayの実績を足がかりに学校へ提案 → 10校中1校が年間契約」という数値仮説は感覚レベルで、根拠となるデータがない。実行してみないと検証できない。
+  - 2026-07-08時点で、この仮説を検証する5フェーズのロードマップ（[[projects/Caredent|Caredent]]参照）が具体化された。フェーズ3で提案数・成約数を実際に記録する計画になっているが、フェーズ0〜4の期間見積もり自体も仮置きで未検証。
 - [[projects/NOCSY|NOCSY]]（教員紹介モデル）とCaredent（企業起点のプログラム掲載）が、同一運営体制内の事業か、別事業として展開されるのかが不明。ポートフォリオ上の関係を整理する必要がある。
 
 ## 重要なポイント
