@@ -1,0 +1,13 @@
+# Local-only capture and app state
+raw/
+obsidian/
+.obsidian/
+
+# macOS metadata
+.DS_Store
+**/.DS_Store
+
+# Editor and temporary files
+*.tmp
+*.swp
+*~
