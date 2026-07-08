@@ -31,11 +31,10 @@ git rm -r --cached --ignore-unmatch raw obsidian .obsidian >/dev/null 2>&1 || tr
 git add -A
 
 if git diff --cached --quiet; then
-  echo "No wiki changes to publish."
-  exit 0
+  echo "No new local wiki changes to commit."
+else
+  git commit -m "$COMMIT_MESSAGE"
 fi
-
-git commit -m "$COMMIT_MESSAGE"
 
 if git ls-remote --exit-code --heads "$REMOTE_NAME" "$DEFAULT_BRANCH" >/dev/null 2>&1; then
   git pull --rebase "$REMOTE_NAME" "$DEFAULT_BRANCH"
