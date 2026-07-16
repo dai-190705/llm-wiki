@@ -1,8 +1,8 @@
 ---
 tags: [question, business, caredent]
 aliases: []
-updated_at: 2026-07-08
-sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md, "raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md"]
+updated_at: 2026-07-16
+sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md, "raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md", "raw/idea/新・NOCSY事業構造（7月16日ver）.md"]
 status: active
 confidence: low
 ---
@@ -27,6 +27,13 @@ confidence: low
 - 「Caredent 1dayの実績を足がかりに学校へ提案 → 10校中1校が年間契約」という数値仮説は感覚レベルで、根拠となるデータがない。実行してみないと検証できない。
   - 2026-07-08時点で、この仮説を検証する5フェーズのロードマップ（[[projects/Caredent|Caredent]]参照）が具体化された。フェーズ3で提案数・成約数を実際に記録する計画になっているが、フェーズ0〜4の期間見積もり自体も仮置きで未検証。
 - [[projects/NOCSY|NOCSY]]（教員紹介モデル）とCaredent（企業起点のプログラム掲載）が、同一運営体制内の事業か、別事業として展開されるのかが不明。ポートフォリオ上の関係を整理する必要がある。
+
+### 長期ビジョン・集客面（2026-07-16追加）
+
+- Caredentの利用者が1万人規模まで到達すれば、NOCSYの「本命ビジネス」（AO入試塾・人材紹介）につなげられるという長期仮説は、根拠となる数値がなく感覚レベル。「本命ビジネス」自体の具体像も未確認。
+- チラシ配りによる直接集客（学校前での声かけ）が、実際にどの程度の集客・SNS拡散につながるかは未検証。
+- 試食等を使ったその場申込み方式（[[entities/people/坂口さん|坂口さん]]の事例）における無断キャンセルへの対処方法は未検討。
+- アイデアソン形式（SNS運用・クラウドファンディングのチーム対抗）を撮影・配信してメディア化する構想の実行可能性は未検証。
 
 ## 重要なポイント
 

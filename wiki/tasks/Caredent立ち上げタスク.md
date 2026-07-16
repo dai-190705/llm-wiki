@@ -1,8 +1,8 @@
 ---
 tags: [task, caredent]
 aliases: []
-updated_at: 2026-07-08
-sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md, "raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md"]
+updated_at: 2026-07-16
+sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md, "raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md", "raw/idea/新・NOCSY事業構造（7月16日ver）.md"]
 status: active
 confidence: medium
 ---
@@ -27,6 +27,10 @@ confidence: medium
   - 期限：今週
   - 関連プロジェクト：[[projects/Caredent|Caredent]]
   - 参照元：raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md
+- [ ] （2026-07-16）学校前でのチラシ配り（女子高生中心に声かけ、SNS拡散目的）を試行する
+  - 期限：未定
+  - 関連プロジェクト：[[projects/Caredent|Caredent]]
+  - 参照元：raw/idea/新・NOCSY事業構造（7月16日ver）.md
 
 ## 今月
 
@@ -42,6 +46,10 @@ confidence: medium
   - 期限：今月
   - 関連プロジェクト：[[projects/Caredent|Caredent]]
   - 参照元：raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md
+- [ ] （2026-07-16）Caredentの利用者拡大に向け、関西中心に団体・企業へ地道にアプローチする
+  - 期限：未定
+  - 関連プロジェクト：[[projects/Caredent|Caredent]]
+  - 参照元：raw/idea/新・NOCSY事業構造（7月16日ver）.md
 
 ## いつか確認
 
