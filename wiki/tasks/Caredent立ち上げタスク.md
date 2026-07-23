@@ -1,8 +1,8 @@
 ---
 tags: [task, caredent]
 aliases: []
-updated_at: 2026-07-16
-sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md, "raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md", "raw/idea/新・NOCSY事業構造（7月16日ver）.md"]
+updated_at: 2026-07-22
+sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md, "raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md", "raw/idea/新・NOCSY事業構造（7月16日ver）.md", raw/idea/学生版Nontitle.md]
 status: active
 confidence: medium
 ---
@@ -51,6 +51,19 @@ confidence: medium
   - 関連プロジェクト：[[projects/Caredent|Caredent]]
   - 参照元：raw/idea/新・NOCSY事業構造（7月16日ver）.md
 
+- [ ] （2026-07-22・学生版Nontitle）Special Mentor候補（山本さん＝株式会社4B、小林くん＝株式会社forestbank）へ打診する
+  - 期限：未定
+  - 関連プロジェクト：[[projects/学生版Nontitle|学生版Nontitle]]
+  - 参照元：raw/idea/学生版Nontitle.md
+- [ ] （2026-07-22・学生版Nontitle）参加者選抜のため近畿大学附属高校ほか近隣高校（東百舌鳥・三国ヶ丘・鳳・金岡・登美丘）へ声をかける
+  - 期限：未定
+  - 関連プロジェクト：[[projects/学生版Nontitle|学生版Nontitle]]
+  - 参照元：raw/idea/学生版Nontitle.md
+- [ ] （2026-07-22・学生版Nontitle）マルシェ会場（あべのベルタ仮案）を確定する
+  - 期限：未定
+  - 関連プロジェクト：[[projects/学生版Nontitle|学生版Nontitle]]
+  - 参照元：raw/idea/学生版Nontitle.md
+
 ## いつか確認
 
 - [ ] Caredent 1dayの追加コラボ候補企業を探す
@@ -73,3 +86,4 @@ confidence: medium
 
 - [[projects/Caredent|Caredent]]
 - [[questions/Caredent事業で検証すべき問い|Caredent事業で検証すべき問い]]
+- [[projects/学生版Nontitle|学生版Nontitle]]

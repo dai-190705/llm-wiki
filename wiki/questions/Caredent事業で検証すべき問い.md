@@ -1,8 +1,8 @@
 ---
 tags: [question, business, caredent]
 aliases: []
-updated_at: 2026-07-16
-sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md, "raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md", "raw/idea/新・NOCSY事業構造（7月16日ver）.md"]
+updated_at: 2026-07-22
+sources: [raw/memo/Caredentスタート.md, raw/idea/単発のイベントCaredent 1day.md, raw/memo/営業アイデア（ブレスト）.md, "raw/memo/Caredent 1day → 課外探究プログラム受託 ロードマップ.md", "raw/idea/新・NOCSY事業構造（7月16日ver）.md", raw/idea/学生版Nontitle.md]
 status: active
 confidence: low
 ---
@@ -35,6 +35,13 @@ confidence: low
 - 試食等を使ったその場申込み方式（[[entities/people/坂口さん|坂口さん]]の事例）における無断キャンセルへの対処方法は未検討。
 - アイデアソン形式（SNS運用・クラウドファンディングのチーム対抗）を撮影・配信してメディア化する構想の実行可能性は未検証。
 
+### 学生版Nontitle関連（2026-07-22追加）
+
+- Special Mentor候補（山本さん・小林くん）への打診が実際に行われるか、確定するかは未確認。
+- 参加者選抜の声かけ先（近畿大学附属高校ほか近隣5校）から実際に何人集まるか、個性豊かな学生6人という選抜基準が実現可能かは未検証。
+- クラウドファンディング目標700万円（Next 1500万円）、YouTube総再生100万・登録者1万人などの目標数値の根拠は不明。
+- 全5回の撮影を毎週日曜に実施できるか（学生・Special Mentor・坂口さんのスケジュール調整）は未検証。詳細は[[projects/学生版Nontitle|学生版Nontitle]]参照。
+
 ## 重要なポイント
 
 - サービス開始直後（2026-07-07）であり、実行結果に基づく検証はこれから。
@@ -50,3 +57,4 @@ confidence: low
 - [[事業方針]]
 - [[entities/people/坂口さん|坂口さん]]
 - [[questions/営業で確認すべき仮説|営業で確認すべき仮説]]
+- [[projects/学生版Nontitle|学生版Nontitle]]
